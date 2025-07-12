@@ -14,6 +14,26 @@ public class User {
 
     }
 
+    public UUID getUserId() {
+        return userId;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public String getEmailId() {
+        return emailId;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public int getContactNumber() {
+        return contactNumber;
+    }
+
     public static class Builder {
 
         private User user = new User();
