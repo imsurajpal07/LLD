@@ -1,4 +1,4 @@
-package Singleton;
+package Creational.Singleton;
 
 class BillPughSingleton {
     // Private constructor to prevent instantiation

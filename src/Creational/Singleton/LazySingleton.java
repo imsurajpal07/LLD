@@ -1,4 +1,4 @@
-package Singleton;
+package Creational.Singleton;
 
 class LazySingleton {
     // The single instance, initially will be null
