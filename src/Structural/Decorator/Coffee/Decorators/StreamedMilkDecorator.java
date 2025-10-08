@@ -1,6 +1,6 @@
-package Behavioral.Decorator.Coffee.Decorators;
+package Structural.Decorator.Coffee.Decorators;
 
-import Behavioral.Decorator.Coffee.Coffee;
+import Structural.Decorator.Coffee.Coffee;
 
 public class StreamedMilkDecorator extends AbstructCoffeeDecorator {
 

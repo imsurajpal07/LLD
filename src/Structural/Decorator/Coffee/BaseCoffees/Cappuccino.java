@@ -1,6 +1,6 @@
-package Behavioral.Decorator.Coffee.BaseCoffees;
+package Structural.Decorator.Coffee.BaseCoffees;
 
-import Behavioral.Decorator.Coffee.Coffee;
+import Structural.Decorator.Coffee.Coffee;
 
 public class Cappuccino implements Coffee {
     @Override

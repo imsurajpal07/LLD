@@ -1,4 +1,4 @@
-package Behavioral.Decorator.Coffee;
+package Structural.Decorator.Coffee;
 
 public interface Coffee {
 

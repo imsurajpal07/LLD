@@ -1,9 +1,9 @@
-package Behavioral.Decorator.Coffee;
+package Structural.Decorator.Coffee;
 
-import Behavioral.Decorator.Coffee.BaseCoffees.Cappuccino;
-import Behavioral.Decorator.Coffee.BaseCoffees.Espresso;
-import Behavioral.Decorator.Coffee.Decorators.HotChocolateDecorator;
-import Behavioral.Decorator.Coffee.Decorators.StreamedMilkDecorator;
+import Structural.Decorator.Coffee.BaseCoffees.Cappuccino;
+import Structural.Decorator.Coffee.BaseCoffees.Espresso;
+import Structural.Decorator.Coffee.Decorators.HotChocolateDecorator;
+import Structural.Decorator.Coffee.Decorators.StreamedMilkDecorator;
 
 public class Main {
 
